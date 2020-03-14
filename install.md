@@ -30,3 +30,6 @@ Il sito vi dirà se state utilizzando un browser supportato o meno
 [Questo è il link per .rpm](https://go.skype.com/skypeforlinux-64.rpm)
 
 [Questo è il link per Snap](https://go.skype.com/linux.snap)
+
+---
+[Torna alla home](index.md)
