@@ -1,3 +1,5 @@
+La prima cosa da fare è installare Skype, [come installare Skype](webpage/install.md)
+
 ## Come installare Skype
 
 [Link](webpage/prova.md)
@@ -7,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Per chi ha dispositivi Android
 
-[Questo è il link per chi ha Android](https://go.skype.com/skype.download.for.phone.android)
+[Questo è il link per Android](https://go.skype.com/skype.download.for.phone.android)
 
 ### Per chi ha iPhone o iPad
 
@@ -15,39 +17,23 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Su PC
 
-Su PC è possibile evitare di installare software utilizzando le ultime versioni di Micorosft Edge o Google Chrome a [questo indirizzo](https://web.skype.com/)
+_Su PC è possibile evitare di installare software utilizzando le ultime versioni di Micorosft Edge o Google Chrome a [questo indirizzo](https://web.skype.com/)_
 
 Il sito vi dirà se state utilizzando un browser supportato o meno
 
 
+### Per computer con Windows OS
 
-### Per computer Windows
+[Questo è il link per Windows](https://go.skype.com/windows.desktop.download)
 
-Proviamo a scrivere qui
+### Per computer con MacOs (Apple)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Questo è il link per Mac](https://go.skype.com/mac.download)
 
-```markdown
-Syntax highlighted code block
+### Per computer con sistemi operativi Linux
 
-# Header 1
-## Header 2
-### Header 3
+[.deb](https://go.skype.com/skypeforlinux-64.deb)
 
-- Bulleted
-- List
+[.rpm](https://go.skype.com/skypeforlinux-64.rpm)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Snap](https://go.skype.com/linux.snap)
