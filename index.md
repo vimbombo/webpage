@@ -1,4 +1,4 @@
-La prima cosa da fare è installare Skype, [come installare Skype](webpage/install.md)
+La prima cosa da fare è installare Skype, [come installare Skype](install.md)
 
 ## Come installare Skype
 
