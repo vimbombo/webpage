@@ -1,4 +1,4 @@
-## Utilizare Skype
+## Utilizzare Skype
 
 La prima cosa da fare è installare Skype, [come installare Skype](install.md)
 
@@ -21,4 +21,8 @@ Non ancora trovato
 [Link](https://standardebooks.org/ebooks/charles-dickens/great-expectations)
 
 ### David Copperfield
-[Link](https://standardebooks.org/ebooks/charles-dickens/david-copperfield)
+[Link alla versione originale gratuita](https://standardebooks.org/ebooks/charles-dickens/david-copperfield)
+
+[Link oper acquisto cartaceo](https://www.blackcat-cideb.com/it/libri/david-copperfield-new-edition)
+
+[Link per acuisto eBook Apple](https://books.apple.com/it/book/david-copperfield/id643625363?uo=4&at=1010lddt)
