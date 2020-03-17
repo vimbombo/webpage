@@ -1,6 +1,19 @@
-## Utilizzare Skype
+### eBook in inglese con esercizi
 
-La prima cosa da fare è installare Skype, [come installare Skype](install.md)
+## I libri segnalati, ad esclusione di _The return of Shrelock Holmes_ e _Great Expectations_, sono disponibili in queste 2 app
+
+Io ho provato la app su iOs. Il costo di abbonamento è di €9,90 per 1 mese, con la prima settimana di prova gratuita.
+Incluso nel costo è possibile scaricare qualsiasi libro tra un'ampia gamma di titoli.
+I libri comprendono gli esercizi.
+
+#### [Scarica la App su Google Play per Android](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
+
+#### [Scarica la App su AppStore per iOs (iPhone eiPad)](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
+
+[_Great Expectations_ è disponibile come eBook per iTunes](https://books.apple.com/it/book/great-expectations/id668609437?uo=4&at=1010lddt)
+
+
+## Altri link:
 
 ### The return of Sherlock Holmes (livello B1.2)
 [Link alla versione originale gratuita](https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes)
@@ -75,3 +88,8 @@ Link per acquisto eBook Google Play - Non trovato
 [Link per acquisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
 
 [Cerca ISBN 9788853017130 su Google per acquisti online](https://www.google.com/?q=9788853017130)
+
+
+## Utilizzare Skype
+
+La prima cosa da fare è installare Skype, [come installare Skype](install.md)
