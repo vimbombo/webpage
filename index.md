@@ -14,9 +14,9 @@ Link alla versione originale gratuita - Non trovato
 
 [Link per acquisto cartaceo](https://www.blackcat-cideb.com/it/libri/the-extraordinary-miss-sunshine)
 
-[Link per acuisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
+[Link per acquisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
 
-[Link per acuisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
+[Link per acquisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
 
 [Cerca ISBN 9788853017147 su Google per acquisti online](https://www.google.com/?q=9788853017147)
 
@@ -26,9 +26,9 @@ Link alla versione originale gratuita - Non trovato
 
 [Link per acquisto cartaceo](https://www.blackcat-cideb.com/it/libri/a-christmas-carol-2)
 
-[Link per acuisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
+[Link per acquisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
 
-[Link per acuisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
+[Link per acquisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
 
 [Cerca ISBN 9788853018335 su Google per acquisti online](https://www.google.com/?q=9788853018335)
 
@@ -37,9 +37,9 @@ Link alla versione originale gratuita - Non trovato
 
 [Link per acquisto cartaceo](https://www.blackcat-cideb.com/it/libri/robinson-crusoe-3)
 
-[Link per acuisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
+[Link per acquisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
 
-[Link per acuisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
+[Link per acquisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
 
 [Cerca ISBN 9788853017161 su Google per acquisti online](https://www.google.com/?q=9788853017161)
 
@@ -48,9 +48,9 @@ Link alla versione originale gratuita - Non trovato
 
 [Link per acquisto cartaceo](https://www.blackcat-cideb.com/it/libri/the-time-machine)
 
-[Link per acuisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
+[Link per acquisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
 
-[Link per acuisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
+[Link per acquisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
 
 [Cerca ISBN 9788853017178 su Google per acquisti online](https://www.google.com/?q=9788853017178)
 
@@ -59,9 +59,9 @@ Link alla versione originale gratuita - Non trovato
 
 [Link per acquisto cartaceo](https://www.blackcat-cideb.com/it/libri/great-expectations-new-edition)
 
-Link per acuisto eBook Google Play - Non trovato
+Link per acquisto eBook Google Play - Non trovato
 
-[Link per acuisto eBook Apple](https://books.apple.com/it/book/great-expectations/id668609437?uo=4&at=1010lddt)
+[Link per acquisto eBook Apple](https://books.apple.com/it/book/great-expectations/id668609437?uo=4&at=1010lddt)
 
 [Cerca ISBN 9788853012111 su Google per acquisti online](https://www.google.com/?q=9788853012111)
 
@@ -70,8 +70,8 @@ Link per acuisto eBook Google Play - Non trovato
 
 [Link per acquisto cartaceo](https://www.blackcat-cideb.com/it/libri/david-copperfield-3)
 
-[Link per acuisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
+[Link per acquisto eBook Google Play](https://play.google.com/store/apps/details?id=com.dealibri.deascuola)
 
-[Link per acuisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
+[Link per acquisto eBook Apple](https://itunes.apple.com/it/app/ereaders-impara-le-lingue-con-le-letture-di-cideb-e-black-cat/id1011726742)
 
 [Cerca ISBN 9788853017130 su Google per acquisti online](https://www.google.com/?q=9788853017130)
