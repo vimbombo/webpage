@@ -1,6 +1,6 @@
 ### eBook in inglese con esercizi
 
-## I libri segnalati, ad esclusione di _The return of Shrelock Holmes_ e _Great Expectations_, sono disponibili in queste 2 app
+## I libri segnalati, ad esclusione di _The return of Sherlock Holmes_ e _Great Expectations_, sono disponibili in queste 2 app
 
 Io ho provato la app su iOs. Il costo di abbonamento è di €9,90 per 1 mese, con la prima settimana di prova gratuita.
 Incluso nel costo è possibile scaricare qualsiasi libro tra un'ampia gamma di titoli.
