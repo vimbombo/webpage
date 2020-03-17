@@ -15,7 +15,7 @@ I libri comprendono gli esercizi.
 
 
 ## Altri link:
-Di fianco ad ogni titolo trovate il codice ISBN, potete usarlo per fare una ricerca nei vari store online
+Di fianco ad ogni titolo trovate il _codice ISBN_, potete usarlo per fare una ricerca nei vari store online
 
 ### The return of Sherlock Holmes (livello B1.2) ISBN: 9788853005465
 [Link alla versione originale gratuita](https://standardebooks.org/ebooks/arthur-conan-doyle/the-return-of-sherlock-holmes)
