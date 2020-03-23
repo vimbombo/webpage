@@ -36,7 +36,9 @@
 
     ![Colore](/img/colore.png){:width="50%"}
 
-9. Clicchiamo sul simbolo con i "toni di grigio"
+9. Clicchiamo sul simbolo con la "scala di grigi"
+
+    ![Colore](/img/scala-di-grigi.png){:width="50%"}
 
 ---
 [Torna alla home](index.md)
