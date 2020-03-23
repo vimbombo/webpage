@@ -1,4 +1,4 @@
-## Scaricare ScanBot
+## Utilizzare ScanBot
 
 ### Per chi ha dispositivi Android
 
