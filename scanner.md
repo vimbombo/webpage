@@ -38,11 +38,27 @@
 
 9. Clicchiamo sul simbolo con la "scala di grigi" e poi su "fatto"
 
-    ![Colore](/img/scala-di-grigi.png){:width="50%"}
+    ![Scala di grigi](/img/scala-di-grigi.png){:width="50%"}
 
 10. A questo punto possiamo cambiare il nome al file
 
-    ![Colore](/img/nome.png){:width="50%"}
+    ![Nome](/img/nome.png){:width="50%"}
 
+10. Cambiamo il nome del file (per esempio "mario-29marzo") e poi clicchiamo su Rinomina
+
+    ![Nuovo Nome](/img/nuovo-nome.png){:width="50%"}
+
+11. Ora clicchiamo "Salvare"
+
+    ![Salvare](/img/salvare.png){:width="50%"}
+
+11. Poi clicchiamo su "Condividi come PDF"
+    ##Da questo punto la procedura su Android potrebbe variare leggermente
+
+    ![Condividi](/img/condividi.png){:width="50%"}
+
+12. Infine clicchiamo sulla nosta App di posta, per esempio Gmail. Oppure salviamo il file PDF per inviarlo in un secondo momento
+
+    ![Invia](/img/invia.png){:width="50%"}
 ---
 [Torna alla home](index.md)
