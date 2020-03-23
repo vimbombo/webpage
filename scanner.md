@@ -22,7 +22,7 @@
 
 4. Seguiamo le istruzioni che compaiono sullo schermo
 
-    ![Sposta più vicino](/img/sposta-piu-vicino.png){:width="50%"}
+    ![Istruzioni a schermo](/img/sposta-piu-vicino.png){:width="50%"}
 
 5. Se l'app non scatta in automatico premiamo il pulsante circolare in basso al centro
 
