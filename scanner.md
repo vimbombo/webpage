@@ -1,4 +1,4 @@
-## Utilizzare ScanBot
+## Utilizzare ScanBot (versione gratuita)
 
 ### Per chi ha dispositivi Android
 
