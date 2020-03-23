@@ -22,7 +22,7 @@
 
 4. Seguiamo le istruzioni che compaiono sullo schermo
 
-    ![Pulsante +](/img/sposta-piu-vicino.png){:width="50%"}
+    ![Sposta più vicino](/img/sposta-piu-vicino.png){:width="50%"}
 
 5. Se l'app non scatta in automatico premiamo il pulsante circolare in basso al centro
 
@@ -31,6 +31,12 @@
 7. A questo punto premiamo il numero di pagine in basso a destra
 
     ![Pagine](/img/pagine.png){:width="50%"}
+
+8. Siamo pronti per togliere il colore (in questo modo il pdf *peserà* molto meno)
+
+    ![Colore](/img/colore.png){:width="50%"}
+
+9. Clicchiamo sul simbolo con i "toni di grigio"
 
 ---
 [Torna alla home](index.md)
