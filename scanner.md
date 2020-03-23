@@ -18,5 +18,19 @@
 
    ![Pulsante +](/img/nuova-scansione.png){:width="50%"}
 
+3. Inquadriamo il foglio con il cellulare in orizzontale (possibilmente su uno sfondo scuro, contrastante, in questo modo l'app riuscirà a tagliare automaticamente l'immagine intorno al foglio)
+
+4. Seguiamo le istruzioni che compaiono sullo schermo
+
+    ![Pulsante +](/img/sposta-piu-vicino.png){:width="50%"}
+
+5. Se l'app non scatta in automatico premiamo il pulsante circolare in basso al centro
+
+6. Ripetiamo l'operazione per tutte le pagine che dobbiamo inviare
+
+7. A questo punto premiamo il numero di pagine in basso a destra
+
+    ![Pagine](/img/pagine.png){:width="50%"}
+
 ---
 [Torna alla home](index.md)
