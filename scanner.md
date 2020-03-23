@@ -26,7 +26,7 @@
 
 5. Se l'app non scatta in automatico premiamo il pulsante circolare in basso al centro
 
-6. Ripetiamo l'operazione per tutte le pagine che dobbiamo inviare
+6. **Ripetiamo l'operazione** per tutte le pagine che dobbiamo inviare
 
 7. A questo punto premiamo il numero di pagine in basso a destra
 
@@ -36,9 +36,13 @@
 
     ![Colore](/img/colore.png){:width="50%"}
 
-9. Clicchiamo sul simbolo con la "scala di grigi"
+9. Clicchiamo sul simbolo con la "scala di grigi" e poi su "fatto"
 
     ![Colore](/img/scala-di-grigi.png){:width="50%"}
+
+10. A questo punto possiamo cambiare il nome al file
+
+    ![Colore](/img/nome.png){:width="50%"}
 
 ---
 [Torna alla home](index.md)
